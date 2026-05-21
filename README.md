@@ -4,7 +4,7 @@ Projetos de visão computacional com MediaPipe e PySide6 para monitoramento de p
 
 ## Integrantes
 
-Felipe Cerbonchini - RM 554909
+Felipe Cerboncini - RM 554909
 Vitor Chaves - RM 557067
 
 ## Pré-requisitos
