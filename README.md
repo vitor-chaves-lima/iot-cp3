@@ -2,6 +2,11 @@
 
 Projetos de visão computacional com MediaPipe e PySide6 para monitoramento de postura e detecção de sonolência.
 
+## Integrantes
+
+Felipe Cerbonchini - RM 554909
+Vitor Chaves - RM 557067
+
 ## Pré-requisitos
 
 - Python 3.13+
